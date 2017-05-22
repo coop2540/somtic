@@ -1,4 +1,4 @@
-** SomTIC/Escola
+## SomTIC/Escola
 
 Espai on aprenem
 
